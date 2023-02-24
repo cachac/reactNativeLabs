@@ -15,3 +15,10 @@ React Native
 eas build --platform android --profile staging
 
 ## Generate Android key-store
+
+## Download release
+
+# Create Google Play Account
+## Create an app
+## Create a release
+## Fix errors
